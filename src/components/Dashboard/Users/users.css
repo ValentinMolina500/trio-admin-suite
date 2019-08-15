@@ -1,0 +1,22 @@
+.content-container-flex {
+  border: 1px solid red;
+  margin: 0 1rem 1rem 1rem;
+  height: calc(100vh - 30vh);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container {
+  border: 1px solid red;
+  height: auto;
+  margin: 1rem 1rem 0 1rem;
+}
+
+#add-user-button {
+  background-color: #981e32;
+  color: white;
+  border: none;
+  border-radius: 0.25rem;
+  box-shadow: 1px  black;
+}
